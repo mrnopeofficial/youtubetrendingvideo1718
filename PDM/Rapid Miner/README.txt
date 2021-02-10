@@ -15,4 +15,4 @@ Step by step tutorial :
 5. Press the start button and wait for the process.
 6. Look the result (accuracy & classification error) at the Results partition
 
-If you have any problems, kindly reach me here syahmim4a1@gmail.com
+If you have any problems, kindly reach me here 198567@student.upm.edu.my
